@@ -1,0 +1,15 @@
+#! /bin/bash
+# author : Nagaraj Naik
+# subject : Arithematic oparation 
+echo " Arithmatic opartion inShell scripting Language "
+echo " Enter a first Number "
+read a
+echo " Enter a second number "
+read b
+expr 1 + 3
+expr 34 - 33
+expr 10 / 2
+expr 20 % 3
+expr 10 \* 3
+echo 'expr 6 + 3'
+
