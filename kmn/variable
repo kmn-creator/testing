@@ -1,0 +1,15 @@
+#! /bin/bash
+# auther : Nagaraj
+# Test my knowlege for script
+echo -e " my data information of \t\tHCL Technologies\n "
+my_name=Nagaraj_Naik
+my_os=linux_os
+my_no=8553559753
+echo " my name is $my_name "
+echo " my OS is $my_os "
+echo " my no is $my_no "
+
+
+
+
+
